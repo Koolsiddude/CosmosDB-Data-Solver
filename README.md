@@ -6,14 +6,13 @@ The CosmosDB Data Solver is a Streamlit application designed to facilitate the u
 ## Project Structure
 ```
 cosmosdb-data-solver
-├── content
-│   ├── home
-│   │   └── CosmosDB-FileUploader.py
-│   ├── settings
-│   │   ├── CosmosDB-Setup.py
-│   │   └── AzureOpenAI-Setup.py
-│   └── upload
-│       └── File-Uploader.py
+│── home
+│   └── CosmosDB-FileUploader.py
+│── settings
+│   ├── CosmosDB-Setup.py
+│   └── AzureOpenAI-Setup.py
+│── upload
+│   └── File-Uploader.py
 ├── cosmosdb_data_solver.py
 └── README.md
 ```
