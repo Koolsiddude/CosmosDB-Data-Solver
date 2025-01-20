@@ -60,9 +60,6 @@ httpx==0.28.1
 httpx-sse==0.4.0
 hyperframe==6.0.1
 idna==3.8
-importlib_metadata @ file:///home/conda/feedstock_root/build_artifacts/importlib-metadata_1724187233579/work
-ipykernel @ file:///D:/bld/ipykernel_1719845595208/work
-ipython @ file:///D:/bld/ipython_1725050320818/work
 isodate==0.6.1
 itsdangerous==2.2.0
 Jinja2==3.1.4
@@ -72,8 +69,6 @@ jsonpickle==1.4.2
 jsonpointer==3.0.0
 jsonschema==4.23.0
 jsonschema-specifications==2023.12.1
-jupyter_client @ file:///home/conda/feedstock_root/build_artifacts/jupyter_client_1716472197302/work
-jupyter_core @ file:///D:/bld/jupyter_core_1710257295326/work
 kiwisolver==1.4.6
 langchain==0.3.14
 langchain-community==0.3.14
@@ -89,7 +84,6 @@ markdownlit==0.0.7
 MarkupSafe==2.1.5
 marshmallow==3.22.0
 matplotlib==3.9.2
-matplotlib-inline @ file:///home/conda/feedstock_root/build_artifacts/matplotlib-inline_1713250518406/work
 mdurl==0.1.2
 microsoft-kiota-abstractions==1.6.8
 microsoft-kiota-authentication-azure==1.6.8
@@ -107,7 +101,6 @@ multidict==6.1.0
 multipledispatch==1.0.0
 mypy-extensions==1.0.0
 narwhals==1.9.0
-nest_asyncio @ file:///home/conda/feedstock_root/build_artifacts/nest-asyncio_1705850609492/work
 networkx==3.4.2
 nibabel==5.3.2
 nipype==1.9.2
@@ -118,22 +111,15 @@ opentelemetry-api==1.29.0
 opentelemetry-sdk==1.29.0
 opentelemetry-semantic-conventions==0.50b0
 orjson==3.10.15
-packaging @ file:///home/conda/feedstock_root/build_artifacts/packaging_1718189413536/work
 pandas==2.2.2
-parso @ file:///home/conda/feedstock_root/build_artifacts/parso_1712320355065/work
 pathlib==1.0.1
 pendulum==3.0.0
-pickleshare @ file:///home/conda/feedstock_root/build_artifacts/pickleshare_1602536217715/work
 pillow==10.4.0
-platformdirs @ file:///home/conda/feedstock_root/build_artifacts/platformdirs_1715777629804/work
 plotly==5.24.1
 portalocker==2.10.1
 prometheus_client==0.21.0
-prompt_toolkit @ file:///home/conda/feedstock_root/build_artifacts/prompt-toolkit_1718047967974/work
 protobuf==5.28.2
 prov==2.0.1
-psutil @ file:///D:/bld/psutil_1719274712219/work
-pure_eval @ file:///home/conda/feedstock_root/build_artifacts/pure_eval_1721585709575/work
 puremagic==1.28
 pyarrow==17.0.0
 pycparser==2.22
@@ -142,7 +128,6 @@ pydantic-settings==2.7.1
 pydantic_core==2.23.3
 pydeck==0.9.1
 pydot==3.0.4
-Pygments @ file:///home/conda/feedstock_root/build_artifacts/pygments_1714846767233/work
 PyJWT==2.9.0
 pymdown-extensions==10.11.2
 pymongo==4.10.1
@@ -155,7 +140,6 @@ pytz==2024.1
 pywin32==306
 pyxnat==1.6.2
 PyYAML==6.0.2
-pyzmq @ file:///D:/bld/pyzmq_1724399238195/work
 rdflib==6.3.2
 recognizers-text==1.0.2a2
 recognizers-text-choice==1.0.2a2
@@ -173,14 +157,12 @@ scipy==1.15.1
 seaborn==0.13.2
 setuptools==72.2.0
 simplejson==3.19.3
-six @ file:///home/conda/feedstock_root/build_artifacts/six_1620240208055/work
 smmap==5.0.1
 sniffio==1.3.1
 soupsieve==2.6
 SQLAlchemy==2.0.37
 st-annotated-text==4.0.1
 st-theme==1.2.3
-stack-data @ file:///home/conda/feedstock_root/build_artifacts/stack_data_1669632077133/work
 std-uritemplate==2.0.1
 streamlit==1.39.0
 streamlit-camera-input-live==0.2.0
@@ -197,20 +179,15 @@ tenacity==9.0.0
 tiktoken==0.7.0
 time-machine==2.16.0
 toml==0.10.2
-tornado @ file:///D:/bld/tornado_1724956232756/work
 tqdm==4.66.5
-traitlets @ file:///home/conda/feedstock_root/build_artifacts/traitlets_1713535121073/work
 traits==6.4.3
 types-PyYAML==6.0.12.20240808
 typing-inspect==0.9.0
-typing_extensions @ file:///home/conda/feedstock_root/build_artifacts/typing_extensions_1717802530399/work
 tzdata==2024.1
 urllib3==2.2.2
 validators==0.34.0
 watchdog==5.0.3
-wcwidth @ file:///home/conda/feedstock_root/build_artifacts/wcwidth_1704731205417/work
 Werkzeug==3.0.4
 wheel==0.44.0
 wrapt==1.17.0
 yarl==1.11.1
-zipp @ file:///home/conda/feedstock_root/build_artifacts/zipp_1724730934107/work
