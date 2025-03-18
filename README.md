@@ -2,6 +2,7 @@
 
 ## Overview
 The CosmosDB Data Solver is a Streamlit application designed to facilitate the uploading of files to Azure CosmosDB. It provides a user-friendly interface for managing data uploads and configuring necessary settings for both CosmosDB and Azure OpenAI services.
+Here is the link to a GUI for this - https://azure-cosmosdb-data-uploader.streamlit.app/
 
 ## Project Structure
 ```
